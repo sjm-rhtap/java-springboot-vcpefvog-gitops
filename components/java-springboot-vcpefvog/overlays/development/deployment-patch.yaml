@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: artifactory-docker-artifactory.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/java-springboot-vcpefvog:07a001f78339b792e01a2aadc235676e6d63ae48@sha256:0ed36ec9e8451f8866c4dc2103a10925c35d4a2d56f269fd2f1df9af0855e5f5
+        - image: artifactory-docker-artifactory.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/java-springboot-vcpefvog:865afa7abb08c2ca970a5af3ed92307ff74ef464@sha256:0ed0f323afe30bfea22fe0dc6718234586920c4d4bbbd0da024d2cc94238e616
           name: container-image
